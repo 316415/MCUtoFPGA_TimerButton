@@ -1,0 +1,5 @@
+../Core/Src/Driver/hw/FPGA_FND/FPGA_FND.c:11:6:FPGA_FND_SetNumber	16	static
+../Core/Src/Driver/hw/FPGA_FND/FPGA_FND.c:16:6:FPGA_FND_DispFNDNumber	8	static
+../Core/Src/Driver/hw/FPGA_FND/FPGA_FND.c:21:6:FPGA_FND_SetFNDNumber	16	static
+../Core/Src/Driver/hw/FPGA_FND/FPGA_FND.c:46:6:FPGA_FND_SetDigitPosition	32	static
+../Core/Src/Driver/hw/FPGA_FND/FPGA_FND.c:76:6:FPGA_FND_SetValue	64	static

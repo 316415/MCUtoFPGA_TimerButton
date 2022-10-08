@@ -1,0 +1,4 @@
+../Core/Src/Driver/hw/LED/Led.c:9:5:Led_GetInstance	24	static
+../Core/Src/Driver/hw/LED/Led.c:16:6:Led_On	16	static
+../Core/Src/Driver/hw/LED/Led.c:21:6:Led_Off	16	static
+../Core/Src/Driver/hw/LED/Led.c:26:6:Led_Toggle	16	static
